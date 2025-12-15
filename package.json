@@ -1,0 +1,19 @@
+{
+    "name": "hivel-polynomial-solver",
+    "version": "1.0.0",
+    "description": "HIVEL Placement Assignment - Polynomial Constant Finder using Lagrange Interpolation",
+    "main": "solver.js",
+    "scripts": {
+        "test1": "node solver.js testcase1.json",
+        "test2": "node solver.js testcase2.json"
+    },
+    "keywords": [
+        "polynomial",
+        "lagrange",
+        "interpolation",
+        "hivel",
+        "placement"
+    ],
+    "author": "Pardhardha",
+    "license": "MIT"
+}
